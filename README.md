@@ -3,4 +3,4 @@ Implemented a Siamese Network with Triplet Loss for Person Re-Identification usi
 
 # Testing
 
-![image](https://github.com/user-attachments/assets/6ca56d20-cab1-4095-ade8-e1af55bf8936)
+![download](https://github.com/user-attachments/assets/b3bbcab7-a848-4069-ae68-724e347677cb)
